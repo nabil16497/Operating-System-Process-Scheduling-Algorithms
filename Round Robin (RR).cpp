@@ -67,6 +67,7 @@ void SortArrivalTime()
 
 main()
 {
+    cout<<"Round Robin\n";
     int i,j,tq,totalbt=0,time=0;
     float avgwt=0, avgtt =0;
     cout<<"Enter number of Process- ";

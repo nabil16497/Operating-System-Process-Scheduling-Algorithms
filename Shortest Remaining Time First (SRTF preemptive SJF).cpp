@@ -74,7 +74,7 @@ void SRTF(){
 main()
 {
 
-
+    cout<<"Shortest Remaining Time First (SRTF preemptive SJF)\n";
     cout<<"Enter the number of Processes: ";
     cin>>n;
     for(int i=0; i<n; i++)

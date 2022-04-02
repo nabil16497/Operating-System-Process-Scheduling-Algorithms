@@ -96,6 +96,7 @@ void callback()
 
 int main()
 {
+    cout<<"Banker's Algorithm\n";
     cout << "Number of process- ";
     cin >> pn;
     cout << "Number of instance- ";

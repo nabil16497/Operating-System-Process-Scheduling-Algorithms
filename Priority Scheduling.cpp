@@ -65,6 +65,7 @@ void PrioritySchedule()
 
 main()
 {
+    cout<<"Priority Scheduling\n";
     float wavg=0,tavg=0;
     cout<<"Enter The Number of Process- ";
     cin>>n;

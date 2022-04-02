@@ -56,6 +56,7 @@ void SJF()
 main()
 {
 
+    cout<<"Shortest Job First (SJF non-preemptive SJF)\n";
 	float totalw =0, totaltt =0;
 
 

@@ -62,6 +62,7 @@ void SortArrivalTime()
 
 main()
 {
+    cout<<"First Come, First Served\n";
 
     cout << "Enter the number of Process- ";
     cin >> n;
